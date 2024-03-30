@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Coding_Challenge.dir/main.cpp.o -o Coding_Challenge 
